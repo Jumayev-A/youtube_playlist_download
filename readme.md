@@ -1,6 +1,4 @@
 open cmd
-
-
 commands:
     python -m venv env
     env\Scripts\activate
