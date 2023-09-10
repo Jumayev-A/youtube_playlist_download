@@ -1,4 +1,4 @@
-open cmd in windows, after intalled python3
+open cmd in windows, after install python3
 # commands:
     python -m venv env
     env\Scripts\activate
